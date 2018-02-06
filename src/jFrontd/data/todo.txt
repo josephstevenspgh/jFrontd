@@ -1,0 +1,20 @@
+Last Version: 0.5b
+
+Finished Projects
+    * Folder option: Mame renaming
+    * Updated filtering
+    * Make HTML-Generated list use Full Names for MAME
+    * Make "Recent" List use Full Names for MAME
+
+Current Project:
+
+Future Projects:
+    * Automatically sorting mame roms by name
+    * Toggle-Button tab-like folder selection, as opposed to the tree
+    * implement folder tag: goodmerge
+    * New Favorite field: "Genre"
+    * CRC and List saving (see whiteboard for details)
+    * Status bar, make it work, make it useful
+
+Future Maybe Projects:
+    * possibly generate a CSS file to use div classes for images

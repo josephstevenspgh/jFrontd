@@ -1,0 +1,38 @@
+What is new?
+
+0.5b
+    * Many, many interface changes
+        * Drag/Drop to re-arrange folders, favorites, and lists in settings
+        * Sorting for folders, and favorites
+        * Menus changed
+    * Favorites
+    * Icons
+    * List of last played games
+    * More I forgot about
+
+0.4b
+    * Data now saves to a fixed path: home/.jFrontd instead of the working directory
+    * Right click menu for Folders - "Add, Edit, Delete"
+    * Auto-refresh on new Folder Add/Edit/Deletion
+    * Implement icons
+    * re-do emulator/folder format
+    * Fix bugs/usability issues
+    * Hide in System Tray during gameplay
+
+0.3b
+    * Right click menu for the file list
+    * Display only supported filetypes
+    * Information Window
+    * Help Window! (spoiler: its the readme)
+    * What's New? Window
+
+0.2b
+    * Double click loads a rom
+    * Changed look and feel to nimbus
+    * New "Add Folders... " Dialog
+    * New "Edit Folders... " Dialog
+    * New "Add Emulators... " Dialog
+    * New "Edit Emulators... " Dialog
+
+0.1b
+    * Everything!

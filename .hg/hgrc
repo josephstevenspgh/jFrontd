@@ -1,0 +1,5 @@
+[paths]
+default = http://bitbucket.org/setz/jfrontd/
+default-push = http://bitbucket.org/setz/jfrontd/
+
+
